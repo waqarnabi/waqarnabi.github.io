@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer at the School of Computing Science, University of Glasgow. I am a member of Education and Practice (EAP) and Systems Research Centre (GLASS).
+I am a Lecturer at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/), [University of Glasgow](https://www.gla.ac.uk). I am a member of [Education and Practice (EAP)](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/) and [Systems Research Centre (GLASS)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/).
 
-I teach primarily for the BSc (Hons) Software Engineering (Graduate Apprenticeship) program, covering foundational courses in the area of: logic design, computer architecture, operating systems, network systems, data structures, algorithms, and discrete maths. I am also closely involved in structuring and assessing workplace learning of the apprenticeship program.
+I teach primarily for the [BSc (Hons) Software Engineering (Graduate Apprenticeship) program](https://www.gla.ac.uk/schools/computing/undergraduate/graduateapprenticeships/), covering foundational courses in the area of: logic design, computer architecture, operating systems, network systems, data structures, algorithms, and discrete maths. I am also closely involved in structuring and assessing workplace learning of the apprenticeship program.
 
 Earlier, I was a post-doc on the EPSRC funded project “Exploiting Parallelism through Type Transformations for Hybrid Manycore Systems”, with my focus on targeting FPGA devices for accelerating scientific code. 
 
@@ -19,7 +19,7 @@ My research interests lie in two broad areas: Computer Systems and Computing Edu
 + Computer Systems 
    + Heterogeneous, high-performance computing (HHPC)
    + Sustainable computing
-   + High-level programming flows for FPGAs
+   + High-level programming flows for FPGAs and GPUs
    + Accessible programming flows for HHPC
    + Peformance optimization of scientific models and machine learning 
    + Performance optimization of database management systems
