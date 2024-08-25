@@ -19,15 +19,18 @@ My research interests lie in two broad areas: Computer Systems and Computing Edu
 + Computer Systems 
    + Heterogeneous, high-performance computing (HHPC)
    + Sustainable computing
-   + High-level programming flows for FPGAs and GPUs
-   + Accessible programming flows for HHPC
-   + Peformance optimization of scientific models and machine learning 
-   + Performance optimization of database management systems
+   + High-level and accessible programming flows for FPGAs and GPUs
+   + Performance end energy optimization of scientific models and machine learning 
+   + Performance and energy optimization of system software and database management systems
 
 + Computing Education
   + Competency-based learning and mastery learning
-  + Computing and Software Engineering education for low and middle income countries (LMICs)
+  + Reflective learning
+  + Teaching foundational courses in computing
+  + Computing and software engineering education for low and middle income countries (LMICs)
   + Use of AI in education
+
+At any given time I am working on only a subset from the list above, and sometims exploring things not on the list at all. But, it captures my profile and interests well enough! 
 
 I am quite keen on working with colleagues from other disciplines, and with international partners. 
   
