@@ -36,6 +36,9 @@ I am quite keen on working with colleagues from other disciplines, and with inte
   
 These days I am actively looking for PhD students, please get in touch if you are interested in doing a PhD with me. I am also very happy to be contacted by University of Glagow's MSci, MSc, or L4 students for project-related discussions. 
 
+In another life, I was part of [Namal College, now University](https://namal.edu.pk/), and for a while was deeply involved in various aspects of setting it up and running it. 
+
+On a more personal note, I very interested in topics at the intersection of religion, science, and philosophy. This is not an area I explore professionally, but always happy to have a cup of coffee over it!
 <!---
 =====================================================
 
