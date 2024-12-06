@@ -18,8 +18,8 @@ My research interests lie in two broad areas: Computer Systems and Computing Edu
 
 + Computer Systems 
    + Heterogeneous, high-performance computing (HHPC)
-   + Sustainable computing
-   + High-level and accessible programming flows for FPGAs and GPUs
+   + Low-Carbon and Sustainable computing
+   + High-level and accessible programming flows for FPGAs and GPUs, specially for Scientific Computing
    + Performance end energy optimization of scientific models and machine learning 
    + Performance and energy optimization of system software and database management systems
 
@@ -30,11 +30,11 @@ My research interests lie in two broad areas: Computer Systems and Computing Edu
   + Computing and software engineering education for low and middle income countries (LMICs)
   + Use of AI in education
 
-At any given time I am working on only a subset from the list above, and sometims exploring things not on the list at all. But, it captures my profile and interests well enough! 
+Some of these area were more prominent in my past, some I am currently more active in, and some are best described as _aspirational_. Basically, I'm happy to talk about, supervise, or collaborate in any of these areas.
 
 I am quite keen on working with colleagues from other disciplines, and with international partners. 
   
-These days I am actively looking for PhD students, please get in touch if you are interested in doing a PhD with me. I am also very happy to be contacted by University of Glagow's MSci, MSc, or L4 students for project-related discussions. 
+These days I am actively looking for PhD students, please get in touch if you are interested. I am also very happy to be contacted by University of Glasgow's MSci, MSc, L4 or GA students for project-related discussions. 
 
 In another life, I was part of [Namal College, now University](https://namal.edu.pk/), and for a while was deeply involved in various aspects of setting it up and running it. 
 
