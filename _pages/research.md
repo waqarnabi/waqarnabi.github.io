@@ -8,7 +8,7 @@ redirect_from:
 
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
-+ Computer Systems 
++ Computing Systems 
    + Heterogeneous Computing
    + Modelling, Simulation, and Optimization of Computing Systems
 
@@ -16,8 +16,8 @@ My research interests lie in two broad areas: Computing Systems, and Computing E
   + Competency-Based Education, Work-Based Learning, and Mastery Learning
   + Computing Education in Low and Middle Income Countries (LMICs)
 
-And an area that spans both domains:
-+ Sustaiability, Responsibility and Equity in Computing Education and Practice
+And an area perhaps closest to my heart and that spans both domains:
++ Sustainability, Responsibility and Equity in Computing Education and Practice
 
 These are still quite high-level areas, and any given time I am focussed on something quite narrow within these domains. You can have a look at PhD projects I've proposed in [Supervision](supervision.md) and my publications on [Google Scholar organized by date here](https://scholar.google.com/citations?hl=en&user=kSwo6DcAAAAJ&view_op=list_works&sortby=pubdate) for a better sense of my more recent priorities. I am happy to collaborate or supervise PhD scholars in any of these broad areas. 
 

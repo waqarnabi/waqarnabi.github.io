@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/), [University of Glasgow](https://www.gla.ac.uk). I am a member of [Education and Practice (EAP)](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/) and [Systems Research Centre (GLASS)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/).
+I am a Lecturer at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/), [University of Glasgow](https://www.gla.ac.uk). 
 
-I teach primarily for the [BSc (Hons) Software Engineering (Graduate Apprenticeship) program](https://www.gla.ac.uk/schools/computing/undergraduate/graduateapprenticeships/), covering foundational courses in the area of: logic design, computer architecture, operating systems, network systems, data structures, algorithms, and discrete maths. I am also closely involved in structuring and assessing workplace learning of the apprenticeship program.
+I am a member of [Education and Practice (EAP)](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/) and co-lead the Skills and Competencies Research Group[https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/skillsandcompetenciesresearchgroup/].
+
+I am also a member of the [Systems Research Centre (GLASS)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/), along with the cross-cutting [Low Carbon and Sustainable Computing theme](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/).
+
+I teach mostly for the [BSc (Hons) Software Engineering (Graduate Apprenticeship) program](https://www.gla.ac.uk/schools/computing/undergraduate/graduateapprenticeships/), covering foundational courses in the area of: logic design, computer architecture, operating systems, network systems, data structures, algorithms, and discrete maths. I am also closely involved in structuring and assessing workplace learning of the apprenticeship program.
 
 Earlier, I was a post-doc on the EPSRC funded project “Exploiting Parallelism through Type Transformations for Hybrid Manycore Systems”, with my focus on targeting FPGA devices for accelerating scientific code. 
 
-In another life, I was part of [Namal College, now University](https://namal.edu.pk/), and for a while was deeply involved in various aspects of setting it up and running it. 
+In another life, I was part of [Namal College, now University](https://namal.edu.pk/) in Pakistan, and for a while was deeply involved in various aspects of setting it up and running it. 
 
 On a more personal note, I interested in topics at the intersection of religion, science, and philosophy. This is not an area I explore professionally, but always happy to have a cup of coffee over it!
 
