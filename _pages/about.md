@@ -14,6 +14,8 @@ I am a member of [Education and Practice (EAP)](https://www.gla.ac.uk/schools/co
 
 I am also a member of the [Systems Research Centre (GLASS)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/), along with the cross-cutting [Low Carbon and Sustainable Computing theme](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/).
 
+I am a founding member two initiatives related to computing education in Pakistan: (ReCompute.pk)[https://recompute-pk.github.io/], which is a forum for podcasts and a reading group related to higher education, and *PkCEP*, which is a conference on Computing Education Practice in Pakistan.
+
 I teach mostly for the [BSc (Hons) Software Engineering (Graduate Apprenticeship) program](https://www.gla.ac.uk/schools/computing/undergraduate/graduateapprenticeships/), covering foundational courses in the area of: logic design, computer architecture, operating systems, network systems, data structures, algorithms, and discrete maths. I am also closely involved in structuring and assessing workplace learning of the apprenticeship program.
 
 Earlier, I was a post-doc on the EPSRC funded project “Exploiting Parallelism through Type Transformations for Hybrid Manycore Systems”, with my focus on targeting FPGA devices for accelerating scientific code. 

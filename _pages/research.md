@@ -25,7 +25,7 @@ I am quite keen on working with colleagues from other disciplines, and with inte
   
 These days I am actively recruting *PhD students*, please get in touch if you are interested, and be sure to look at the page on [Supervision](supervision.md) first. I am also very happy to be contacted by University of Glasgow's MSci, MSc, L4 or GA students for project-related discussions. 
 
-I am committed to addressing [United Nations' Sustainable Development Goals (UNSDGs](https://sdgs.un.org/goals), with the following goals in focus:
+I am committed to addressing the [United Nations' Sustainable Development Goals (UNSDGs)](https://sdgs.un.org/goals) through my research, with the following goals in focus:
 + #4 Quality Education
 + #10 Reduced Inequalities
 + #13 Climate Action

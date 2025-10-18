@@ -8,18 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
-My research interests lie in two broad areas: Computer Systems and Computing Education. More specifically:
+I am currently recruiting PhD students, and you can look at some proposals I have floated on (our School's website here)[https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/phd-projects/#educationandpractice(eap),glasgowsystemssection(glass)] (search for any part of my name).
 
-+ Computer Systems 
-   + Heterogeneous, high-performance computing (HHPC)
-   + Low-Carbon and Sustainable computing
-   + High-level and accessible programming flows for FPGAs and GPUs, specially for Scientific Computing
-   + Performance end energy optimization of scientific models and machine learning 
-   + Performance and energy optimization of system software and database management systems
+You can propose your own projects as well in any of the areas I have listed on my [Research](research.md) page.
 
-+ Computing Education
-  + Competency-based learning and mastery learning
-  + Reflective learning
-  + Teaching foundational courses in computing
-  + Computing and software engineering education for low and middle income countries (LMICs)
-  + Use of AI in education
+Please reach out to me if you are interested. You don't have to have a full research proposal prepared before hand, but it would be good if you can share a brief of your idea, or indicate which of my proposals you might be interested in and why. You will eventually need to write a more detailed researh proposal, and (you can see guidance and sample proposals here)[https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/#writingacomputingscienceresearchproposal].
+
+
