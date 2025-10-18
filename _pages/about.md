@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Lecturer at the [School of Computing Science](https://www.gla.ac.uk/schools/computing/), [University of Glasgow](https://www.gla.ac.uk). 
 
-I am a member of [Education and Practice (EAP)](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/) and co-lead the Skills and Competencies Research Group[https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/skillsandcompetenciesresearchgroup/].
+I am a member of [Education and Practice (EAP)](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/) and co-lead the (Skills and Competencies Research Group)[https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/skillsandcompetenciesresearchgroup/].
 
 I am also a member of the [Systems Research Centre (GLASS)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/), along with the cross-cutting [Low Carbon and Sustainable Computing theme](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/).
 
