@@ -18,13 +18,16 @@ Please reach out to me if you are interested. You don't have to have a full rese
 
 If you use Generative AI in any way at all for preparing your research proposal, please make you have followed Glasgow University's [Generative AI Guidance for Researchers](https://www.gla.ac.uk/research/strategy/ourpolicies/ai-for-researchers/) 
 
-# Past and Current PhD Students
+# PhD Students
 
-+ Robert Szafarczyk (2021-2025): Compiler-Hardware Co-Design in the High-Level Synthesis of Irregular Code
 + Rahim Ullah (2025-): 3D Medical Imaging in a Resouce-Constrained Environment
 + Mariusz Szczepaniak (2025-)
 + Jomon Palakudy (2025-)
 + Fatimah Hazza A Alshamrani (2025-)
+
+*Robert Szafarczyk (2021-2025)* (main supervisor: [Prof Dr Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/)
+Compiler-Hardware Co-Design in the High-Level Synthesis of Irregular Code
+
 
 # Past and Current Level 4 / MSc Students
 

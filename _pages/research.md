@@ -9,8 +9,8 @@ redirect_from:
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
 + Computing Systems 
-   + Heterogeneous Computing
-   + Modelling, Simulation, and Optimization of Computing Systems
+   + Heterogeneousm, High-Performance, and Scientific Computing
+   + Cross-Layer Optimization of the Computing Stack
 
 + Computing Education
   + Competency-Based Education, Work-Based Learning, and Mastery Learning
@@ -37,6 +37,24 @@ I am committed to addressing the [United Nations' Sustainable Development Goals 
 =====================================================
 COMMENTED OUT CONTENT
 =====================================================
+
+2025.11.12
+==========
+
+My research interests lie in two broad areas: Computing Systems, and Computing Education. 
+
++ Computing Systems 
+   + Heterogeneous Computing
+   + Modelling, Simulation, and Optimization of Computing Systems
+
++ Computing Education
+  + Competency-Based Education, Work-Based Learning, and Mastery Learning
+  + Computing Education in Low and Middle Income Countries (LMICs)
+
+
+Earlier
+==========
+
 My research interests lie in two broad areas: Computer Systems and Computing Education. More specifically:
 
 + Computer Systems 
