@@ -23,7 +23,7 @@ If you use Generative AI in any way at all for preparing your research proposal,
 ### Rahim Ullah (2025-)
 
 *3D Medical Imaging in a Resouce-Constrained Environment*
-Co-supervisors: [Dr Hasan Abbas](https://www.gla.ac.uk/schools/engineering/staff/hasanabbas/), [http://fdeligianni.site/](http://fdeligianni.site/))
+Co-supervisors: [Dr Hasan Abbas](https://www.gla.ac.uk/schools/engineering/staff/hasanabbas/), [Dr Fani Deligianni](http://fdeligianni.site/))
 
 ### Jomon Palakudy (2025 - ongoing)
 
@@ -38,12 +38,12 @@ Main supervisor: [Dr Nikela Papadopoulou](https://www.gla.ac.uk/schools/computin
 ### Fatimah Hazza A Alshamrani (2025- )
 
 *Assessing Large Language Models as Virtual Lab Assistants in Data Analytics Education*
-Main supervisor: (Dr Mireilla Bikanga Ada)[https://www.gla.ac.uk/schools/computing/staff/mireillabikangaada/]
+Main supervisor: [Dr Mireilla Bikanga Ada](https://www.gla.ac.uk/schools/computing/staff/mireillabikangaada/)
 
 ### Xingjian Fu (2025- )
 
 *Vision Transformer Algorithm Accelerator Based on FPGA*
-Main supervisor: (José Cano Reyes)[https://www.dcs.gla.ac.uk/~josecr/]
+Main supervisor: [José Cano Reyes](https://www.dcs.gla.ac.uk/~josecr/)
 
 ### Robert Szafarczyk (2021-2025)
 
