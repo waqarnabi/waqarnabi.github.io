@@ -20,12 +20,18 @@ If you use Generative AI in any way at all for preparing your research proposal,
 
 # PhD Students
 
-+ Rahim Ullah (2025-): 3D Medical Imaging in a Resouce-Constrained Environment
-+ Mariusz Szczepaniak (2025-)
-+ Jomon Palakudy (2025-)
-+ Fatimah Hazza A Alshamrani (2025-)
+*Rahim Ullah (2025-)* (co-supervisors: [Dr Hasan Abbas](https://www.gla.ac.uk/schools/engineering/staff/hasanabbas/), [http://fdeligianni.site/](http://fdeligianni.site/))
+3D Medical Imaging in a Resouce-Constrained Environment
 
-*Robert Szafarczyk (2021-2025)* (main supervisor: [Prof Dr Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/)
+Jomon Palakudy (2025-)
+
+Mariusz Szczepaniak (2025-)
+
+Fatimah Hazza A Alshamrani (2025-)
+
+## Robert Szafarczyk (2021-2025)* 
+(main supervisor: [Prof Dr Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/))
+
 Compiler-Hardware Co-Design in the High-Level Synthesis of Irregular Code
 
 
