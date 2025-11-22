@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-I recorded a video discussing my research, aimed primarily at potential research students. You can see the video [here](https://youtu.be/RrTyGAFoC2Q), and the slides [here](../files/nabi_phdinfosession-2025.pdf).
+I recorded a video discussing my research, aimed primarily at potential research students, [which you can watch here ](https://youtu.be/RrTyGAFoC2Q) [(slides here)](../files/nabi_phdinfosession-2025.pdf).
 
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
