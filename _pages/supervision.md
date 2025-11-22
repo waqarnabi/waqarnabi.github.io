@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-# PhD / MRes Applicants
+## PhD / MRes Applicants
 
 I am currently recruiting PhD students, and you can look at some proposals I have floated on [our School's website here](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/phd-projects/#educationandpractice(eap),glasgowsystemssection(glass)) (search for any part of my name).
 
@@ -18,7 +18,7 @@ Please reach out to me if you are interested. You don't have to have a full rese
 
 If you use Generative AI in any way at all for preparing your research proposal, please make sure you have followed Glasgow University's [Generative AI Guidance for Researchers](https://www.gla.ac.uk/research/strategy/ourpolicies/ai-for-researchers/). My personal prefernce is to take a minimalist approach to using Gen AI.
 
-# PhD Students
+## PhD Students
 
 ### Rahim Ullah (2025 - )
 

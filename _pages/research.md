@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-I recorded a video discussing my research, aimed primarily at potential research students. You can see the video [here](https://youtu.be/RrTyGAFoC2Q), and the slides [here](nabi_phdinfosession-2025.pdf).
+I recorded a video discussing my research, aimed primarily at potential research students. You can see the video [here](https://youtu.be/RrTyGAFoC2Q), and the slides [here](../files/nabi_phdinfosession-2025.pdf).
 
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
@@ -27,7 +27,7 @@ I am quite keen on working with colleagues from other disciplines, and with inte
   
 These days I am actively recruting *PhD students*, please get in touch if you are interested, and be sure to look at the page on [Supervision](supervision.md) first. I am also very happy to be contacted by University of Glasgow's MSci, MSc, L4 or GA students for project-related discussions. 
 
-I am committed to addressing the [United Nations' Sustainable Development Goals (UNSDGs)](https://sdgs.un.org/goals) through my research, [with the following goals in focus](nabi_unsdgs-2025.jpg):
+I am committed to addressing the [United Nations' Sustainable Development Goals (UNSDGs)](https://sdgs.un.org/goals) through my research, [with the following goals in focus](../files/nabi_unsdgs-2025.jpg):
 + #4 Quality Education
 + #10 Reduced Inequalities
 + #13 Climate Action
