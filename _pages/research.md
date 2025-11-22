@@ -11,8 +11,8 @@ I recorded a video discussing my research, aimed primarily at potential research
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
 + Computing Systems 
-   + Cross-Layer Optimization of the Computing Stack
-   + Heterogeneous, High-Performance, and Scientific Computing
+   + [Cross-Layer Optimization of the Computing Stack](../files/nabi_computing-stack-2025.jpg)
+   + [Heterogeneous, High-Performance, and Scientific Computing](../files/nabi_heterogeneous-computing-2025.jpg)
 
 + Computing Education
   + Competency-Based Education, Work-Based Learning, and Mastery Learning
