@@ -10,18 +10,18 @@ I recorded a video discussing my research, aimed primarily at potential research
 
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
-+ Computing Systems 
++ **Computing Systems** (as part of the [Systems Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/))
    + [Cross-Layer Optimization of the Computing Stack](../files/nabi_computing-stack-2025.jpg)
    + [Heterogeneous, High-Performance, and Scientific Computing](../files/nabi_heterogeneous-computing-2025.jpg)
 
-+ Computing Education
++ **Computing Education** (as part of the [Education & Practice Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/))
   + Competency-Based Education, Work-Based Learning, and Mastery Learning
   + Computing Education in Low- and Middle-Income Countries (LMICs)
 
-And an area perhaps closest to my heart and that spans both domains:
-+ Sustainability, Responsibility and Equity in Computing Education, Research, and Practice
+And an over-arching theme of interest that spans both domains:
++ **Sustainability, Responsibility and Equity in Computing Education, Research, and Practice**
 
-These are still quite high-level areas, and any given time I am focussed on something quite narrow within these domains. You can have a look at PhD projects I've proposed in [Supervision](supervision.md) and my publications on [Google Scholar organized by date here](https://scholar.google.com/citations?hl=en&user=kSwo6DcAAAAJ&view_op=list_works&sortby=pubdate) for a better sense of my more recent priorities. I am happy to collaborate or supervise PhD scholars in any of these broad areas. 
+These are still quite high-level areas, and at any given time I am usually focussed on something quite narrow within these domains in terms of my personal research at least, though my PhD supervision touches on all these areas. You can have a look at my current PhD students and their research topics and PhD projects I've proposed in [Supervision](supervision.md). You can see my publications on [Google Scholar organized by date here](https://scholar.google.com/citations?hl=en&user=kSwo6DcAAAAJ&view_op=list_works&sortby=pubdate) for a better sense of my more recent priorities. I am happy to collaborate or supervise projects at PhD and other levels in any of these broad areas.
 
 I am quite keen on working with colleagues from other disciplines, and with international partners. 
   
