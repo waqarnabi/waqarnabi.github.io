@@ -6,18 +6,20 @@ author_profile: true
 redirect_from: 
 ---
 
+I recorded a video discussing my research, aimed primarily at potential research students. You can see the video [here](https://youtu.be/RrTyGAFoC2Q), and the slides [here](nabi_phdinfosession-2025.pdf).
+
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
 + Computing Systems 
-   + Heterogeneousm, High-Performance, and Scientific Computing
    + Cross-Layer Optimization of the Computing Stack
+   + Heterogeneous, High-Performance, and Scientific Computing
 
 + Computing Education
   + Competency-Based Education, Work-Based Learning, and Mastery Learning
-  + Computing Education in Low and Middle Income Countries (LMICs)
+  + Computing Education in Low- and Middle-Income Countries (LMICs)
 
 And an area perhaps closest to my heart and that spans both domains:
-+ Sustainability, Responsibility and Equity in Computing Education and Practice
++ Sustainability, Responsibility and Equity in Computing Education, Research, and Practice
 
 These are still quite high-level areas, and any given time I am focussed on something quite narrow within these domains. You can have a look at PhD projects I've proposed in [Supervision](supervision.md) and my publications on [Google Scholar organized by date here](https://scholar.google.com/citations?hl=en&user=kSwo6DcAAAAJ&view_op=list_works&sortby=pubdate) for a better sense of my more recent priorities. I am happy to collaborate or supervise PhD scholars in any of these broad areas. 
 
@@ -25,7 +27,7 @@ I am quite keen on working with colleagues from other disciplines, and with inte
   
 These days I am actively recruting *PhD students*, please get in touch if you are interested, and be sure to look at the page on [Supervision](supervision.md) first. I am also very happy to be contacted by University of Glasgow's MSci, MSc, L4 or GA students for project-related discussions. 
 
-I am committed to addressing the [United Nations' Sustainable Development Goals (UNSDGs)](https://sdgs.un.org/goals) through my research, with the following goals in focus:
+I am committed to addressing the [United Nations' Sustainable Development Goals (UNSDGs)](https://sdgs.un.org/goals) through my research, [with the following goals in focus](nabi_unsdgs-2025.jpg):
 + #4 Quality Education
 + #10 Reduced Inequalities
 + #13 Climate Action
