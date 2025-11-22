@@ -18,12 +18,14 @@ Please reach out to me if you are interested. You don't have to have a full rese
 
 If you use Generative AI in any way at all for preparing your research proposal, please make sure you have followed Glasgow University's [Generative AI Guidance for Researchers](https://www.gla.ac.uk/research/strategy/ourpolicies/ai-for-researchers/). My personal prefernce is to take a minimalist approach to using Gen AI.
 
+I recorded a video in Nov 2025, discussing my research, aimed primarily at potential research students, [which you can watch here ](https://youtu.be/RrTyGAFoC2Q) [(slides here)](../files/nabi_phdinfosession-2025.pdf).
+
 ## PhD Students
 
 ### Rahim Ullah (2025 - )
 
 *3D Medical Imaging in a Resouce-Constrained Environment* \
-Co-supervisors: [Dr Hasan Abbas](https://www.gla.ac.uk/schools/engineering/staff/hasanabbas/), [Dr Fani Deligianni](http://fdeligianni.site/))
+Co-supervisors: [Dr Hasan Abbas](https://www.gla.ac.uk/schools/engineering/staff/hasanabbas/), [Dr Fani Deligianni](http://fdeligianni.site/)
 
 ### Jomon Palakudy (2025 - )
 
@@ -43,7 +45,7 @@ Main supervisor: [Dr Mireilla Bikanga Ada](https://www.gla.ac.uk/schools/computi
 ### Xingjian Fu (2025 - )
 
 *Vision Transformer Algorithm Accelerator Based on FPGA* \
-Main supervisor: [José Cano Reyes](https://www.dcs.gla.ac.uk/~josecr/)
+Main supervisor: [Dr José Cano Reyes](https://www.dcs.gla.ac.uk/~josecr/)
 
 ### Robert Szafarczyk (2021 - 2025)
 
