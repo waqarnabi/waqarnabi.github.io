@@ -50,6 +50,6 @@ Main supervisor: [José Cano Reyes](https://www.dcs.gla.ac.uk/~josecr/)
 *Compiler-Hardware Co-Design in the High-Level Synthesis of Irregular Code* \
 Main supervisor: [Prof Dr Wim Vanderbauwhede](https://www.dcs.gla.ac.uk/~wim/))
 
-# Past and Current Level 4 / MSc Students
+## Past and Current Level 4 / MSc Students
 
 _Coming Soon._
