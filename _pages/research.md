@@ -11,7 +11,7 @@ I recorded a video discussing my research, aimed primarily at potential research
 My research interests lie in two broad areas: Computing Systems, and Computing Education. 
 
 + **Computing Systems** (as part of the [Systems Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/))
-   + [Cross-Layer Optimization of the Computing Stack](../files/nabi_computing-stack-2025.jpg)
+   + [Cross-Layer Optimization of the Computing Stack](../files/nabi_computing-stack-2025.jpg)(emphasis on Compilers & High-Level Synthesis)
    + [Heterogeneous, High-Performance, and Scientific Computing](../files/nabi_heterogeneous-computing-2025.jpg)
 
 + **Computing Education** (as part of the [Education & Practice Research Section](https://www.gla.ac.uk/schools/computing/research/researchsections/educationandpracticeeap/))
