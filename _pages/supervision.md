@@ -22,7 +22,7 @@ I recorded a video in Nov 2025, discussing my research, aimed primarily at poten
 
 ## PhD Students
 
-### Rahim Ullah (2025 - )
+### [Rahim Ullah (2025 - )](https://www.gla.ac.uk/schools/computing/staff/rahimullah/)
 
 *3D Medical Imaging in a Resouce-Constrained Environment* \
 Co-supervisors: [Dr Hasan Abbas](https://www.gla.ac.uk/schools/engineering/staff/hasanabbas/), [Dr Fani Deligianni](http://fdeligianni.site/)
